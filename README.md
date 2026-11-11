@@ -4,9 +4,9 @@
 
 Работает на чистом Node.js, внешние зависимости не нужны.
 
-**Сайт: https://ku-portal.onrender.com** (тестовый вход — на экране входа, пароль `1234`)
+**Сайт: https://ku-portalnew.onrender.com** (тестовый вход — на экране входа, пароль `1234`)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SAKEDA-hub/ku-portal)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/techsam1/ku-portalnew)
 
 | Вход | Комнаты по предметам | Вызов на спикинг | Пульт преподавателя |
 |:---:|:---:|:---:|:---:|
